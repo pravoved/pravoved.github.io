@@ -1,2 +1,3 @@
 User-agent: *
-Host: 2ym.ru
+Host: pravoved.github.io
+
